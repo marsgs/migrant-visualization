@@ -1,0 +1,61 @@
+2014: f66a6a	
+2015: ee7920
+2016: df8601
+2017: 33aedb
+2018: 3f762d
+
+Mediterranean: 35.602, 4.412, Zoom: 4
+US-Mexico Border: 29.182,-107.025
+Central America: 14.236,-79.213
+North Africa: 26.848,13.989
+
+Sub-Saharan Africa: -4.966,23.444
+Europe: 50.041,13.260
+Horn of Africa: 9.610,44.595
+Middle East: 31.288,48.435
+South Asia: 18.750,89.284
+Southeast Asia:
+
+
+(South Africa) Sub Saharan Africa + Horn of Africa
+(South Asia) South Asia + Southeast Asia
+
+F8BDC4 mx
+B2CEDE us
+FEFFA5 eu
+DFE0E2 so Af
+B5DEAD mid est
+DBF9F4 so asia
+F3C969 no Af
+
+2014color: mapbox://styles/marsgs/ck3ys5mtz78j71crzzeyolgma/draft
+2015color: mapbox://styles/marsgs/ck3ys75vp41yg1dtd4fp9oix7/draft
+2016color: mapbox://styles/marsgs/ck3ys88ok1yji1cpumhi957lh/draft
+2017color: mapbox://styles/marsgs/ck3yscj2z0it91cn5kk94w0ed/draft
+2018color: mapbox://styles/marsgs/ck3ysdm4878r61crzq4yvsl38/draft
+All Years: mapbox://styles/marsgs/ck3ysfnax3gwq1co1759i1vzh/draft
+
+Causes of Death:
+
+Drowning
+Unknown
+Health Condition
+Vehicle Accident
+Murder
+Starvation
+Dehydration
+Hyperthermia
+Hypothermia
+Suffocation
+Mixed
+Exposure
+Asphyxiation
+Electrocution
+Burned
+Fallen
+Crushed
+Killed by Animals
+Suicide
+
+{'Drowning': 1331, 'Unknown': 1054, 'Health Condition': 938, 'Vehicle Accident': 781, 'Murdered': 376, 'Starvation': 226, 'Dehydration': 144, 'Hyperthermia': 118, 'Harsh Conditions': 98, 'Hypothermia': 82, 'Asphyxiati
+on': 64, 'Mixed': 27, 'Harsh conditions': 25, 'Exposure': 24, 'Electrocution': 12, 'Stabbed': 9, 'Fallen': 8, 'Burned': 7, 'Killed by animals': 3, 'Crushed': 3, 'Suicide': 3}
