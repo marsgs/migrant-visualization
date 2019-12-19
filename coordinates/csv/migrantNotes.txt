@@ -1,14 +1,7 @@
-2014: f66a6a	
-2015: ee7920
-2016: df8601
-2017: 33aedb
-2018: 3f762d
-
 Mediterranean: 35.602, 4.412, Zoom: 4
 US-Mexico Border: 29.182,-107.025
 Central America: 14.236,-79.213
 North Africa: 26.848,13.989
-
 Sub-Saharan Africa: -4.966,23.444
 Europe: 50.041,13.260
 Horn of Africa: 9.610,44.595
@@ -35,27 +28,61 @@ F3C969 no Af
 2018color: mapbox://styles/marsgs/ck3ysdm4878r61crzq4yvsl38/draft
 All Years: mapbox://styles/marsgs/ck3ysfnax3gwq1co1759i1vzh/draft
 
-Causes of Death:
+CAUSES OF DEATH
+All entries causes of death
 
-Drowning
-Unknown
-Health Condition
-Vehicle Accident
-Murder
-Starvation
-Dehydration
-Hyperthermia
-Hypothermia
-Suffocation
-Mixed
-Exposure
-Asphyxiation
-Electrocution
-Burned
-Fallen
-Crushed
-Killed by Animals
-Suicide
+causes.Add("Drowning",1331);
+causes.Add("Unknown",1054);
+causes.Add("Health Condition",938);
+causes.Add("Vehicle Accident",781);
+causes.Add("Murdered",376);
+causes.Add("Starvation",226);
+causes.Add("Dehydration",144);
+causes.Add("Hyperthermia",118);
+causes.Add("Harsh Conditions",98);
+causes.Add("Hypothermia",82);
+causes.Add("Asphyxiation",64);
+causes.Add("Mixed",27);
+causes.Add("Harsh conditions",25);
+causes.Add("Exposure",24);
+causes.Add("Electrocution",12);
+causes.Add("Stabbed",9);
+causes.Add("Fallen",8);
+causes.Add("Burned",7);
+causes.Add("Killed by animals",3);
+causes.Add("Crushed",3);
+causes.Add("Suicide",3);
 
-{'Drowning': 1331, 'Unknown': 1054, 'Health Condition': 938, 'Vehicle Accident': 781, 'Murdered': 376, 'Starvation': 226, 'Dehydration': 144, 'Hyperthermia': 118, 'Harsh Conditions': 98, 'Hypothermia': 82, 'Asphyxiati
-on': 64, 'Mixed': 27, 'Harsh conditions': 25, 'Exposure': 24, 'Electrocution': 12, 'Stabbed': 9, 'Fallen': 8, 'Burned': 7, 'Killed by animals': 3, 'Crushed': 3, 'Suicide': 3}
+
+Mediterranean
+causes.Add("Drowning",770);
+causes.Add("Unknown",147);
+causes.Add("Asphyxiation",18);
+causes.Add("Hypothermia",12);
+causes.Add("Murdered",8);
+causes.Add("Health Condition",8);
+causes.Add("Vehicle Accident",7);
+causes.Add("Burned",5);
+causes.Add("Dehydration",3);
+causes.Add("Crushed",2);
+causes.Add("Starvation",1);
+causes.Add("Fallen",1);
+causes.Add("Hyperthermia",1);
+causes.Add("Exposure",1);
+
+Mexico
+causes.Add("Unknown",740);
+causes.Add("Drowning",313);
+causes.Add("Hyperthermia",112);
+causes.Add("Vehicle Accident",42);
+causes.Add("Dehydration",36);
+causes.Add("Hypothermia",29);
+causes.Add("Murdered",18);
+causes.Add("Mixed",18);
+causes.Add("Exposure",14);
+causes.Add("Health Condition",7);
+causes.Add("Suicide",2);
+causes.Add("Fallen",2);
+causes.Add("Electrocution",2);
+causes.Add("Asphyxiation",1);
+causes.Add("Harsh Conditions",1);

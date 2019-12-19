@@ -1,6 +1,8 @@
 import json
 import csv
 import script
+import numpy
+
 
 input_file = open("migrantData.json",'r', encoding='utf-8')
 input_data = json.load(input_file)
